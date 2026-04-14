@@ -1,5 +1,7 @@
-# Bnusman Website
+# Bnusman Official Website
 
-Welcome to my first website
+Welcome to my personal website.
 
-This is my trading signal project
+I share useful and honest information.
+
+This is my trading signal project.
